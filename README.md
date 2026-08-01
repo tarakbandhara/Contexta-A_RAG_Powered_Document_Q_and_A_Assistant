@@ -15,6 +15,12 @@
 
 Contexta is a Retrieval-Augmented Generation (RAG) chat application built with LangChain, Chroma, and Chainlit. Upload a document (PDF, DOCX, TXT, or CSV) and ask questions about it — or just chat normally, and Contexta will answer from general knowledge instead. Every answer is clearly labeled with its source.
 
+## 🚀 Live Demo
+
+**Try Contexta here:** https://contexta-xskv.onrender.com/
+
+> **Note:** The app is hosted on Render's free tier. If it has been inactive, the first request may take around 30–60 seconds while it wakes up.
+
 This was built as a hands-on learning project to understand RAG fundamentals — not by following a fixed tutorial, but by building, testing against real documents, finding real failures, and fixing them with evidence rather than guesswork.
 
 ## Features
