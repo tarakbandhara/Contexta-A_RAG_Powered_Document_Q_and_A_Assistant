@@ -17,7 +17,7 @@ Contexta is a Retrieval-Augmented Generation (RAG) chat application built with L
 
 ## 🚀 Live Demo
 
-**Try Contexta here:** https://contexta-xskv.onrender.com/
+**Try Contexta here:** https://contexta.tarakbandhara.in/
 
 > The application is deployed and available for interactive use.
 
