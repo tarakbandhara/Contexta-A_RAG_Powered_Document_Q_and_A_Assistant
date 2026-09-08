@@ -17,7 +17,7 @@ Contexta is a Retrieval-Augmented Generation (RAG) chat application built with L
 
 ## 🚀 Live Demo
 
-**Try Contexta here:** https://contexta-xskv.onrender.com/
+**Try Contexta here:** https://contexta.tarakbandhara.in
 
 > The application is deployed and available for interactive use.
 
@@ -78,7 +78,7 @@ A few genuine problems this project ran into, and how they were actually diagnos
 - **Orchestration:** LangChain
 - **Vector store:** Chroma
 - **Embeddings:** HuggingFace (`sentence-transformers/all-MiniLM-L6-v2`)
-- **LLM:** OpenRouter (`NVIDIA : Nemotron 3 Ultra`)
+- **LLM:** OpenRouter (`inclusionai/ling-3.0-flash-fin:free`)
 - **UI:** Chainlit
 
 ## Setup
