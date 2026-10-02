@@ -11,7 +11,7 @@ gemini_base_url = os.getenv("gemini_base_url")
 open_router_base_url = os.getenv("open_router_base_url")
 
 MODEL = 'gemini-2.5-flash-lite'
-OR_MODEL = "inclusionai/ling-3.0-flash-fin:free"
+OR_MODEL = "qwen/qwen3.8-27b:free"
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
 
