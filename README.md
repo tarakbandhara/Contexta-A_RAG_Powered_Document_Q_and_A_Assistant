@@ -78,7 +78,7 @@ A few genuine problems this project ran into, and how they were actually diagnos
 - **Orchestration:** LangChain
 - **Vector store:** Chroma
 - **Embeddings:** HuggingFace (`sentence-transformers/all-MiniLM-L6-v2`)
-- **LLM:** OpenRouter (`nvidia/nemotron-3.5-lightning:free`)
+- **LLM:** OpenRouter (`inclusionai/ling-3.0-flash-sante:free`)
 - **UI:** Chainlit
 
 ## Setup
